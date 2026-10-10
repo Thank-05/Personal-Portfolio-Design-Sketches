@@ -1,0 +1,4 @@
+Project Title: Personal Portfolio Design Sketches — Nguyen Tien Thanh (Option 2)
+
+Brief write-up:
+These wireframes show the planned layout for my personal portfolio website on both a mobile phone and a larger screen. For Option 2, I plan to use a responsive portfolio template as the starting point and customize its content and sections for my own profile. The mobile view uses a compact, vertically stacked layout with a menu icon, introduction, skills, projects, and contact form. The larger-screen view uses horizontal navigation and a wider hero area, with project cards arranged side by side. The sketches are black and white and focus on page structure, content hierarchy, and responsive behavior before final colors and styling are applied.
